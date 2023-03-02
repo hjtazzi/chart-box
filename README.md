@@ -10,4 +10,4 @@ npm run start-api
 npm run start
 ```
 
-![screenshot-01](https://github.com/hjtazzi/chart-box/tree/main/img/screenshot-01.png)
+![screenshot-01](https://github.com/hjtazzi/chart-box/blob/main/imgs/screenshot-01.png)
