@@ -9,3 +9,5 @@ npm run start-api
 ```sh
 npm run start
 ```
+
+![screenshot-01](https://github.com/hjtazzi/chart-box/tree/main/img/screenshot-01.png)
